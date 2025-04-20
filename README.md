@@ -65,3 +65,4 @@ Multi-hand support
 
 GUI toggle for activation
 
+![Screenshot 2025-04-20 114629](https://github.com/user-attachments/assets/5bdb96d8-e3ea-4831-a121-21dd8cf52888)
